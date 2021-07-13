@@ -1,2 +1,1 @@
-# justingdps
-JustinGDPS home repository (WIP)
+WORK IN PROGRESS
